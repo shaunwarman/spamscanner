@@ -455,8 +455,8 @@ Accepts a `locale` and returns it as a lowercase string with affixed localizatio
 
 | Name             | Website                    |
 | ---------------- | -------------------------- |
-| **Nick Baugh**   | <http://niftylettuce.com/> |
-| **Shaun Warman** | <http://shaunwarman.com/>  |
+| **Nick Baugh**   | <https://niftylettuce.com/> |
+| **Shaun Warman** | <https://shaunwarman.com/>  |
 
 
 ## License
